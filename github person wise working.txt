@@ -1,0 +1,9 @@
+1. git init
+2.git remote add origin https://github.com/mahadi-shakkor/DBMS.git
+3. git pull https://github.com/mahadi-shakkor/DBMS.git p1
+
+4. git switch -c p1
+
+5. git add .
+6. git commit -m 'comment'
+7. git push -u origin p1

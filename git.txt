@@ -1,4 +1,4 @@
-$ git init
+ git init
 git remote add origin https://github.com/mahadi-shakkor/DBMS.git
 
 git pull https://github.com/mahadi-shakkor/DBMS.git p2
@@ -7,3 +7,5 @@ git switch -c 'p2'
 git add .
 git -m commit "u text "
 git push u origin p2
+
+

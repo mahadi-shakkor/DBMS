@@ -1,0 +1,1 @@
+print("Kichui kori na")

@@ -1,0 +1,1 @@
+print("Arekta dia dekhi")
